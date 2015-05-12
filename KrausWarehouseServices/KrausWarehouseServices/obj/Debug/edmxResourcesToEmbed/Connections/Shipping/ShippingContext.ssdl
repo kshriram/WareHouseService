@@ -1,0 +1,1103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Audit" EntityType="Model.Store.Audit" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="BoxPackage" EntityType="Model.Store.BoxPackage" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CartonInfo" EntityType="Model.Store.CartonInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="DeletedBoxSave" EntityType="Model.Store.DeletedBoxSave" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ErrorLog" EntityType="Model.Store.ErrorLog" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Package" EntityType="Model.Store.Package" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PackageDetail" EntityType="Model.Store.PackageDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PalletDetail" EntityType="Model.Store.PalletDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PalletInfo" EntityType="Model.Store.PalletInfo" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ProductDimension" EntityType="Model.Store.ProductDimension" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ReasonCategory" EntityType="Model.Store.ReasonCategory" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Reasons" EntityType="Model.Store.Reasons" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Return" EntityType="Model.Store.Return" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ReturnDetail" EntityType="Model.Store.ReturnDetail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ReturnedSKU_Reason_Points" EntityType="Model.Store.ReturnedSKU_Reason_Points" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ReturnImages" EntityType="Model.Store.ReturnImages" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RMAAudit" EntityType="Model.Store.RMAAudit" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RMAComments" EntityType="Model.Store.RMAComments" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Roles" EntityType="Model.Store.Roles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Shipping" EntityType="Model.Store.Shipping" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SKUImages" EntityType="Model.Store.SKUImages" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SKUReasons" EntityType="Model.Store.SKUReasons" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Station" EntityType="Model.Store.Station" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="Model.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Tracking" EntityType="Model.Store.Tracking" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User" EntityType="Model.Store.User" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserStation" EntityType="Model.Store.UserStation" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VersionRelease_RGA" EntityType="Model.Store.VersionRelease_RGA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VersionReleased" EntityType="Model.Store.VersionReleased" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Get_Shipping_Data" EntityType="Model.Store.Get_Shipping_Data" store:Type="Views" store:Schema="dbo" store:Name="Get_Shipping_Data">
+      <DefiningQuery>SELECT 
+      [Get_Shipping_Data].[Row_Number] AS [Row_Number], 
+      [Get_Shipping_Data].[ShipmentID] AS [ShipmentID], 
+      [Get_Shipping_Data].[SKU] AS [SKU], 
+      [Get_Shipping_Data].[ItemName] AS [ItemName], 
+      [Get_Shipping_Data].[ProductName] AS [ProductName], 
+      [Get_Shipping_Data].[Quantity] AS [Quantity], 
+      [Get_Shipping_Data].[ItemWeight] AS [ItemWeight], 
+      [Get_Shipping_Data].[UnitOfMeasure] AS [UnitOfMeasure], 
+      [Get_Shipping_Data].[LineType] AS [LineType], 
+      [Get_Shipping_Data].[UPCCode] AS [UPCCode], 
+      [Get_Shipping_Data].[CountryOfOrigin] AS [CountryOfOrigin], 
+      [Get_Shipping_Data].[MAP_Price] AS [MAP_Price], 
+      [Get_Shipping_Data].[TCLCOD_0] AS [TCLCOD_0], 
+      [Get_Shipping_Data].[TarrifCode] AS [TarrifCode], 
+      [Get_Shipping_Data].[ValidationFLG] AS [ValidationFLG], 
+      [Get_Shipping_Data].[AllocationLocation] AS [AllocationLocation], 
+      [Get_Shipping_Data].[ShippingLocation] AS [ShippingLocation], 
+      [Get_Shipping_Data].[LocationCombined] AS [LocationCombined]
+      FROM [dbo].[Get_Shipping_Data] AS [Get_Shipping_Data]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="getShippingDetails" EntityType="Model.Store.getShippingDetails" store:Type="Views" store:Schema="dbo" store:Name="getShippingDetails">
+      <DefiningQuery>SELECT 
+      [getShippingDetails].[ShippingNum] AS [ShippingNum], 
+      [getShippingDetails].[DeliveryProvider] AS [DeliveryProvider], 
+      [getShippingDetails].[DeliveryMode] AS [DeliveryMode], 
+      [getShippingDetails].[FromAddressLine1] AS [FromAddressLine1], 
+      [getShippingDetails].[FromAddressLine2] AS [FromAddressLine2], 
+      [getShippingDetails].[FromAddressLine3] AS [FromAddressLine3], 
+      [getShippingDetails].[FromAddressCity] AS [FromAddressCity], 
+      [getShippingDetails].[FromAddressState] AS [FromAddressState], 
+      [getShippingDetails].[FromAddressCountry] AS [FromAddressCountry], 
+      [getShippingDetails].[FromAddressZipCode] AS [FromAddressZipCode], 
+      [getShippingDetails].[ToAddressLine1] AS [ToAddressLine1], 
+      [getShippingDetails].[ToAddressLine2] AS [ToAddressLine2], 
+      [getShippingDetails].[ToAddressLine3] AS [ToAddressLine3], 
+      [getShippingDetails].[ToAddressCity] AS [ToAddressCity], 
+      [getShippingDetails].[ToAddressState] AS [ToAddressState], 
+      [getShippingDetails].[ToAddressCountry] AS [ToAddressCountry], 
+      [getShippingDetails].[ToAddressZipCode] AS [ToAddressZipCode], 
+      [getShippingDetails].[ShipmentStatus] AS [ShipmentStatus], 
+      [getShippingDetails].[OrderID] AS [OrderID], 
+      [getShippingDetails].[CustomerPO] AS [CustomerPO], 
+      [getShippingDetails].[ShipToAddress] AS [ShipToAddress], 
+      [getShippingDetails].[OurSupplierNo] AS [OurSupplierNo], 
+      [getShippingDetails].[CustomerName1] AS [CustomerName1], 
+      [getShippingDetails].[CustomerName2] AS [CustomerName2], 
+      [getShippingDetails].[WebAddress] AS [WebAddress], 
+      [getShippingDetails].[FreightTerms] AS [FreightTerms], 
+      [getShippingDetails].[Carrier] AS [Carrier], 
+      [getShippingDetails].[DeliveryContact] AS [DeliveryContact], 
+      [getShippingDetails].[Indexcode] AS [Indexcode], 
+      [getShippingDetails].[Contact] AS [Contact], 
+      [getShippingDetails].[PaymentTerms] AS [PaymentTerms], 
+      [getShippingDetails].[TotalPackages] AS [TotalPackages], 
+      [getShippingDetails].[Fax] AS [Fax], 
+      [getShippingDetails].[VendorName] AS [VendorName], 
+      [getShippingDetails].[ShippingMode] AS [ShippingMode], 
+      [getShippingDetails].[XB_RESFLG_0] AS [XB_RESFLG_0], 
+      [getShippingDetails].[CODCHG_0] AS [CODCHG_0], 
+      [getShippingDetails].[INSVAL_0] AS [INSVAL_0], 
+      [getShippingDetails].[ADDCODFRT_0] AS [ADDCODFRT_0], 
+      [getShippingDetails].[BILLOPT_0] AS [BILLOPT_0], 
+      [getShippingDetails].[HDLCHG_0] AS [HDLCHG_0], 
+      [getShippingDetails].[DOWNFLG_0] AS [DOWNFLG_0], 
+      [getShippingDetails].[BACCT_0] AS [BACCT_0], 
+      [getShippingDetails].[TPBILL_0] AS [TPBILL_0], 
+      [getShippingDetails].[CUSTBILL_0] AS [CUSTBILL_0], 
+      [getShippingDetails].[CNTFULNAM_0] AS [CNTFULNAM_0]
+      FROM [dbo].[getShippingDetails] AS [getShippingDetails]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_BoxPackage_Package" Association="Model.Store.FK_BoxPackage_Package">
+      <End Role="Package" EntitySet="Package" />
+      <End Role="BoxPackage" EntitySet="BoxPackage" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Package_Shipping" Association="Model.Store.FK_Package_Shipping">
+      <End Role="Shipping" EntitySet="Shipping" />
+      <End Role="Package" EntitySet="Package" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Package_Station" Association="Model.Store.FK_Package_Station">
+      <End Role="Station" EntitySet="Station" />
+      <End Role="Package" EntitySet="Package" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Package_User" Association="Model.Store.FK_Package_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Package" EntitySet="Package" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PackageDetail_Package" Association="Model.Store.FK_PackageDetail_Package">
+      <End Role="Package" EntitySet="Package" />
+      <End Role="PackageDetail" EntitySet="PackageDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PalletDetail_PalletDetail" Association="Model.Store.FK_PalletDetail_PalletDetail">
+      <End Role="PalletInfo" EntitySet="PalletInfo" />
+      <End Role="PalletDetail" EntitySet="PalletDetail" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReturnedSKU_Reason_Points_Return" Association="Model.Store.FK_ReturnedSKU_Reason_Points_Return">
+      <End Role="Return" EntitySet="Return" />
+      <End Role="ReturnedSKU_Reason_Points" EntitySet="ReturnedSKU_Reason_Points" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReturnedSKU_Reason_Points_ReturnDetail" Association="Model.Store.FK_ReturnedSKU_Reason_Points_ReturnDetail">
+      <End Role="ReturnDetail" EntitySet="ReturnDetail" />
+      <End Role="ReturnedSKU_Reason_Points" EntitySet="ReturnedSKU_Reason_Points" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ReturnImages_ReturnDetail" Association="Model.Store.FK_ReturnImages_ReturnDetail">
+      <End Role="ReturnDetail" EntitySet="ReturnDetail" />
+      <End Role="ReturnImages" EntitySet="ReturnImages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RMAComments_Return" Association="Model.Store.FK_RMAComments_Return">
+      <End Role="Return" EntitySet="Return" />
+      <End Role="RMAComments" EntitySet="RMAComments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RMAComments_User" Association="Model.Store.FK_RMAComments_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="RMAComments" EntitySet="RMAComments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Station_User" Association="Model.Store.FK_Station_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Station" EntitySet="Station" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblUserStation_tblStationMaster" Association="Model.Store.FK_tblUserStation_tblStationMaster">
+      <End Role="Station" EntitySet="Station" />
+      <End Role="UserStation" EntitySet="UserStation" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tracking_BoxPackage" Association="Model.Store.FK_Tracking_BoxPackage">
+      <End Role="BoxPackage" EntitySet="BoxPackage" />
+      <End Role="Tracking" EntitySet="Tracking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tracking_Package" Association="Model.Store.FK_Tracking_Package">
+      <End Role="Package" EntitySet="Package" />
+      <End Role="Tracking" EntitySet="Tracking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tracking_Shipping" Association="Model.Store.FK_Tracking_Shipping">
+      <End Role="Shipping" EntitySet="Shipping" />
+      <End Role="Tracking" EntitySet="Tracking" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaction_Reasons" Association="Model.Store.FK_Transaction_Reasons">
+      <End Role="Reasons" EntitySet="Reasons" />
+      <End Role="SKUReasons" EntitySet="SKUReasons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Transaction_ReturnDetail" Association="Model.Store.FK_Transaction_ReturnDetail">
+      <End Role="ReturnDetail" EntitySet="ReturnDetail" />
+      <End Role="SKUReasons" EntitySet="SKUReasons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Roles" Association="Model.Store.FK_User_Roles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserLogs_User" Association="Model.Store.FK_UserLogs_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Audit" EntitySet="Audit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserStation_User" Association="Model.Store.FK_UserStation_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="UserStation" EntitySet="UserStation" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Audit">
+    <Key>
+      <PropertyRef Name="UserLogID" />
+    </Key>
+    <Property Name="UserLogID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ActionType" Type="varchar(max)" />
+    <Property Name="ActionTime" Type="datetime" />
+    <Property Name="ActionValue" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="BoxPackage">
+    <Key>
+      <PropertyRef Name="BoxID" />
+    </Key>
+    <Property Name="BoxID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PackingID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="BoxType" Type="varchar" MaxLength="50" />
+    <Property Name="BoxWeight" Type="float" />
+    <Property Name="BoxLength" Type="float" />
+    <Property Name="BoxHeight" Type="float" />
+    <Property Name="BoxWidth" Type="float" />
+    <Property Name="BoxCreatedTime" Type="datetime" />
+    <Property Name="BoxEndTime" Type="datetime" />
+    <Property Name="BoxMeasurementTime" Type="datetime" />
+    <Property Name="ROWID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="BOXNUM" Type="varchar" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="CartonInfo">
+    <Key>
+      <PropertyRef Name="CartonID" />
+    </Key>
+    <Property Name="CartonID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="BOXNumber" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ShipmentNumber" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CartonNumber" Type="int" Nullable="false" />
+    <Property Name="Printed" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DeletedBoxSave">
+    <Key>
+      <PropertyRef Name="DeletedBoxID" />
+    </Key>
+    <Property Name="DeletedBoxID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="BoxNumber" Type="varchar" MaxLength="50" />
+    <Property Name="SKUName" Type="varchar" MaxLength="50" />
+    <Property Name="SKUQuantity" Type="int" />
+    <Property Name="UserID" Type="uniqueidentifier" />
+    <Property Name="DeleteDateTime" Type="datetime" />
+    <Property Name="Location" Type="varchar" MaxLength="50" />
+    <Property Name="StationName" Type="varchar" MaxLength="50" />
+    <Property Name="ActionStatus" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ErrorLog">
+    <Key>
+      <PropertyRef Name="ErrorLogID" />
+    </Key>
+    <Property Name="ErrorLogID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="uniqueidentifier" />
+    <Property Name="ErrorLocation" Type="varchar(max)" />
+    <Property Name="ErrorDesc" Type="varchar(max)" />
+    <Property Name="ErrorTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Package">
+    <Key>
+      <PropertyRef Name="PackingId" />
+    </Key>
+    <Property Name="PackingId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StationID" Type="uniqueidentifier" />
+    <Property Name="ShippingID" Type="uniqueidentifier" />
+    <Property Name="ShippingNum" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="StartTime" Type="datetime" />
+    <Property Name="EndTime" Type="datetime" />
+    <Property Name="ShipmentLocation" Type="varchar" MaxLength="50" />
+    <Property Name="PackingStatus" Type="int" />
+    <Property Name="ManagerOverride" Type="int" />
+    <Property Name="UPS_FEDEX_flg" Type="int" />
+    <Property Name="LTL_flg" Type="int" />
+    <Property Name="Pallet_flg" Type="int" />
+    <Property Name="PLT_Carrier" Type="varchar" MaxLength="50" />
+    <Property Name="PLT_BOL" Type="varchar" MaxLength="50" />
+    <Property Name="PLT_PRO" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+    <Property Name="ROWID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PCKROWID" Type="varchar" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="PackageDetail">
+    <Key>
+      <PropertyRef Name="PackingDetailID" />
+    </Key>
+    <Property Name="PackingDetailID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PackingId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SKUNumber" Type="varchar(max)" />
+    <Property Name="SKUQuantity" Type="int" />
+    <Property Name="SKUScanDateTime" Type="datetime" />
+    <Property Name="BoxNumber" Type="varchar" MaxLength="50" />
+    <Property Name="ShipmentLocation" Type="varchar" MaxLength="50" />
+    <Property Name="ItemName" Type="varchar(max)" />
+    <Property Name="ProductName" Type="varchar(max)" />
+    <Property Name="UnitOfMeasure" Type="varchar(max)" />
+    <Property Name="CountryOfOrigin" Type="varchar(max)" />
+    <Property Name="MAP_Price" Type="numeric" Precision="19" Scale="5" />
+    <Property Name="TCLCOD_0" Type="varchar(max)" />
+    <Property Name="TarrifCode" Type="varchar(max)" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+    <Property Name="RowNumber" Type="int" />
+  </EntityType>
+  <EntityType Name="PalletDetail">
+    <Key>
+      <PropertyRef Name="PalletDetailID" />
+    </Key>
+    <Property Name="PalletDetailID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PalletID" Type="uniqueidentifier" />
+    <Property Name="BoxNumber" Type="varchar" MaxLength="50" />
+    <Property Name="ShipmentNumber" Type="varchar" MaxLength="50" />
+    <Property Name="CartonNumber" Type="varchar" MaxLength="50" />
+    <Property Name="PrintStatus" Type="int" />
+  </EntityType>
+  <EntityType Name="PalletInfo">
+    <Key>
+      <PropertyRef Name="PalletID" />
+    </Key>
+    <Property Name="PalletID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PalletType" Type="varchar" MaxLength="50" />
+    <Property Name="PalletWeight" Type="float" />
+    <Property Name="PalletHeight" Type="float" />
+    <Property Name="PalletWidth" Type="float" />
+    <Property Name="palletCreatedTime" Type="datetime" />
+    <Property Name="PrintStatus" Type="int" />
+    <Property Name="RowID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="PalletNumber" Type="varchar" StoreGeneratedPattern="Computed" />
+    <Property Name="PLT_Carrier" Type="varchar" MaxLength="50" />
+    <Property Name="PLT_BOL" Type="varchar" MaxLength="50" />
+    <Property Name="PLT_PRO" Type="varchar" MaxLength="50" />
+    <Property Name="Location" Type="varchar" MaxLength="50" />
+    <Property Name="PalletEndDateTime" Type="datetime" />
+    <Property Name="BOLCreatedDateTime" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ProductDimension">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ProductID" Type="varchar(max)" />
+    <Property Name="SKU" Type="varchar(max)" />
+    <Property Name="Length" Type="int" />
+    <Property Name="Width" Type="int" />
+    <Property Name="Height" Type="int" />
+    <Property Name="Weight" Type="int" />
+  </EntityType>
+  <EntityType Name="ReasonCategory">
+    <Key>
+      <PropertyRef Name="ReasonCatID" />
+    </Key>
+    <Property Name="ReasonCatID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReasonID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="5" />
+  </EntityType>
+  <EntityType Name="Reasons">
+    <Key>
+      <PropertyRef Name="ReasonID" />
+    </Key>
+    <Property Name="ReasonID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Reason" Type="varchar(max)" />
+    <Property Name="ReasonPoints" Type="int" />
+    <Property Name="ReasonFlag" Type="int" />
+  </EntityType>
+  <EntityType Name="Return">
+    <Key>
+      <PropertyRef Name="ReturnID" />
+    </Key>
+    <Property Name="ReturnID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RMANumber" Type="varchar(max)" />
+    <Property Name="ShipmentNumber" Type="varchar(max)" />
+    <Property Name="OrderNumber" Type="varchar(max)" />
+    <Property Name="PONumber" Type="varchar(max)" />
+    <Property Name="OrderDate" Type="datetime" />
+    <Property Name="DeliveryDate" Type="datetime" />
+    <Property Name="ReturnDate" Type="datetime" />
+    <Property Name="ScannedDate" Type="datetime" />
+    <Property Name="ExpirationDate" Type="datetime" />
+    <Property Name="VendorNumber" Type="varchar(max)" />
+    <Property Name="VendoeName" Type="varchar(max)" />
+    <Property Name="CustomerName1" Type="varchar(max)" />
+    <Property Name="CustomerName2" Type="varchar(max)" />
+    <Property Name="Address1" Type="varchar(max)" />
+    <Property Name="Address2" Type="varchar(max)" />
+    <Property Name="Address3" Type="varchar(max)" />
+    <Property Name="ZipCode" Type="varchar(max)" />
+    <Property Name="City" Type="varchar(max)" />
+    <Property Name="State" Type="varchar(max)" />
+    <Property Name="Country" Type="varchar(max)" />
+    <Property Name="ReturnReason" Type="nvarchar(max)" />
+    <Property Name="RMAStatus" Type="tinyint" />
+    <Property Name="Decision" Type="tinyint" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="UpdatedBy" Type="uniqueidentifier" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpdatedDate" Type="datetime" />
+    <Property Name="Wrong_RMA_Flg" Type="nvarchar(max)" />
+    <Property Name="Warranty_STA" Type="nvarchar(max)" />
+    <Property Name="Setting_Wty_Days" Type="int" />
+    <Property Name="ShipDate_ScanDate_Days_Diff" Type="int" />
+    <Property Name="CallTag" Type="varchar(max)" />
+    <Property Name="Ready_To_Export" Type="int" />
+    <Property Name="Exported_in_ERP" Type="int" />
+    <Property Name="ProgressFlag" Type="int" />
+    <Property Name="ROWID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RGAROWID" Type="varchar" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="ReturnDetail">
+    <Key>
+      <PropertyRef Name="ReturnDetailID" />
+    </Key>
+    <Property Name="ReturnDetailID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReturnID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ProductID" Type="varchar(max)" />
+    <Property Name="SKUNumber" Type="varchar(max)" />
+    <Property Name="ProductName" Type="varchar(max)" />
+    <Property Name="LineType" Type="int" />
+    <Property Name="TCLCOD_0" Type="nvarchar" MaxLength="5" />
+    <Property Name="SalesPrice" Type="money" />
+    <Property Name="DeliveredQty" Type="int" />
+    <Property Name="ExpectedQty" Type="int" />
+    <Property Name="ReturnQty" Type="int" />
+    <Property Name="ProductStatus" Type="int" />
+    <Property Name="SKU_Qty_Seq" Type="int" />
+    <Property Name="SKU_Sequence" Type="int" />
+    <Property Name="IsSkuScanned" Type="int" />
+    <Property Name="IsManuallyAdded" Type="int" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="UpdatedBy" Type="uniqueidentifier" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpadatedDate" Type="datetime" />
+    <Property Name="TrackingNumber" Type="varchar(max)" />
+    <Property Name="SKU_Status" Type="nvarchar(max)" />
+    <Property Name="SKU_Reason_Total_Points" Type="int" />
+    <Property Name="ShipmentLines" Type="int" />
+    <Property Name="ReturnLines" Type="int" />
+    <Property Name="ROWID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RGADROWID" Type="varchar" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="ReturnedSKU_Reason_Points">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReturnID" Type="uniqueidentifier" />
+    <Property Name="ReturnDetailID" Type="uniqueidentifier" />
+    <Property Name="SKU" Type="nvarchar(max)" />
+    <Property Name="Reason" Type="nvarchar(max)" />
+    <Property Name="Reason_Value" Type="nvarchar(max)" />
+    <Property Name="Points" Type="int" />
+    <Property Name="SkuSequence" Type="int" />
+  </EntityType>
+  <EntityType Name="ReturnImages">
+    <Key>
+      <PropertyRef Name="ReturnImageID" />
+    </Key>
+    <Property Name="ReturnImageID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReturnDetailID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SKUImagePath" Type="varchar(max)" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="UpadatedBy" Type="uniqueidentifier" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="UpadatedDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="RMAAudit">
+    <Key>
+      <PropertyRef Name="UserLogID" />
+    </Key>
+    <Property Name="UserLogID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ActionType" Type="varchar(max)" />
+    <Property Name="ActionTime" Type="datetime" />
+    <Property Name="ActionValue" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="RMAComments">
+    <Key>
+      <PropertyRef Name="RMACommentID" />
+    </Key>
+    <Property Name="RMACommentID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReturnID" Type="uniqueidentifier" />
+    <Property Name="UserID" Type="uniqueidentifier" />
+    <Property Name="CommentDate" Type="datetime" />
+    <Property Name="Comment" Type="text" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Action" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="Shipping">
+    <Key>
+      <PropertyRef Name="ShippingID" />
+    </Key>
+    <Property Name="ShippingID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ShippingNum" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ShippingStartTime" Type="datetime" />
+    <Property Name="ShippingEndTime" Type="datetime" />
+    <Property Name="DeliveryProvider" Type="varchar(max)" />
+    <Property Name="DeliveryMode" Type="varchar(max)" />
+    <Property Name="FromAddressLine1" Type="varchar(max)" />
+    <Property Name="FromAddressLine2" Type="varchar(max)" />
+    <Property Name="FromAddressLine3" Type="varchar(max)" />
+    <Property Name="FromAddressCity" Type="varchar" MaxLength="50" />
+    <Property Name="FromAddressState" Type="varchar" MaxLength="50" />
+    <Property Name="FromAddressCountry" Type="varchar" MaxLength="50" />
+    <Property Name="FromAddressZipCode" Type="varchar" MaxLength="50" />
+    <Property Name="ToAddressLine1" Type="varchar(max)" />
+    <Property Name="ToAddressLine2" Type="varchar(max)" />
+    <Property Name="ToAddressLine3" Type="varchar(max)" />
+    <Property Name="ToAddressCity" Type="varchar" MaxLength="50" />
+    <Property Name="ToAddressState" Type="varchar" MaxLength="50" />
+    <Property Name="ToAddressCountry" Type="varchar" MaxLength="50" />
+    <Property Name="ToAddressZipCode" Type="varchar" MaxLength="50" />
+    <Property Name="ShipmentStatus" Type="varchar" MaxLength="50" />
+    <Property Name="OrderID" Type="varchar(max)" />
+    <Property Name="CustomerPO" Type="varchar(max)" />
+    <Property Name="ShipToAddress" Type="varchar(max)" />
+    <Property Name="OurSupplierNo" Type="varchar" MaxLength="50" />
+    <Property Name="CustomerName1" Type="varchar(max)" />
+    <Property Name="CustomerName2" Type="varchar(max)" />
+    <Property Name="WebAddress" Type="varchar(max)" />
+    <Property Name="FreightTerms" Type="varchar" MaxLength="50" />
+    <Property Name="Carrier" Type="varchar" MaxLength="50" />
+    <Property Name="DeliveryContact" Type="varchar" MaxLength="50" />
+    <Property Name="Indexcode" Type="smallint" />
+    <Property Name="Contact" Type="varchar" MaxLength="50" />
+    <Property Name="PaymentTerms" Type="varchar" MaxLength="50" />
+    <Property Name="TotalPackages" Type="int" />
+    <Property Name="Fax" Type="varchar(max)" />
+    <Property Name="VendorName" Type="varchar(max)" />
+    <Property Name="MDL_0" Type="varchar" MaxLength="50" />
+    <Property Name="XB_RESFLG_0" Type="tinyint" />
+    <Property Name="CODCHG_0" Type="varchar" MaxLength="50" />
+    <Property Name="INSVAL_0" Type="numeric" Precision="27" Scale="13" />
+    <Property Name="ADDCODFRT_0" Type="tinyint" />
+    <Property Name="BILLOPT_0" Type="varchar" MaxLength="50" />
+    <Property Name="HDLCHG_0" Type="varchar" MaxLength="50" />
+    <Property Name="DOWNFLG_0" Type="tinyint" />
+    <Property Name="BACCT_0" Type="varchar" MaxLength="50" />
+    <Property Name="TPBILL_0" Type="tinyint" />
+    <Property Name="CUSTBILL_0" Type="tinyint" />
+    <Property Name="CNTFULNAM_0" Type="varchar(max)" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+    <Property Name="ROWID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SHIPPINGROWID" Type="varchar" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="SKUImages">
+    <Key>
+      <PropertyRef Name="RowID" />
+    </Key>
+    <Property Name="RowID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SKU" Type="varchar(max)" Nullable="false" />
+    <Property Name="SKUrl" Type="varchar(max)" Nullable="false" />
+    <Property Name="BarcodeFlag" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SKUReasons">
+    <Key>
+      <PropertyRef Name="SKUReasonID" />
+    </Key>
+    <Property Name="SKUReasonID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="ReasonID" Type="uniqueidentifier" />
+    <Property Name="ReturnDetailID" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="Station">
+    <Key>
+      <PropertyRef Name="StationID" />
+    </Key>
+    <Property Name="StationID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RequestedUserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StationName" Type="varchar(max)" Nullable="false" />
+    <Property Name="DeviceNumber" Type="varchar(max)" Nullable="false" />
+    <Property Name="StationAlive" Type="int" Nullable="false" />
+    <Property Name="RegistrationDate" Type="datetime" Nullable="false" />
+    <Property Name="StationLocation" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tracking">
+    <Key>
+      <PropertyRef Name="TrackingID" />
+    </Key>
+    <Property Name="TrackingID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PackingID" Type="uniqueidentifier" />
+    <Property Name="ShippingID" Type="uniqueidentifier" />
+    <Property Name="BoxID" Type="uniqueidentifier" />
+    <Property Name="SHIP_REF1" Type="char" MaxLength="35" />
+    <Property Name="TrackingNum" Type="char" MaxLength="30" />
+    <Property Name="TrackingNum_FEDEX" Type="char" MaxLength="30" />
+    <Property Name="TrackingNum_UPS" Type="char" MaxLength="30" />
+    <Property Name="CODCHG" Type="char" MaxLength="9" />
+    <Property Name="PCKCHG" Type="char" MaxLength="11" />
+    <Property Name="Height" Type="char" MaxLength="3" />
+    <Property Name="Length" Type="char" MaxLength="3" />
+    <Property Name="Width" Type="char" MaxLength="3" />
+    <Property Name="BOXNUM" Type="varchar(max)" />
+    <Property Name="CODOPT" Type="char" MaxLength="1" />
+    <Property Name="HDLCHG" Type="char" MaxLength="9" />
+    <Property Name="INSVAL" Type="char" MaxLength="9" />
+    <Property Name="PCKTYP" Type="char" MaxLength="35" />
+    <Property Name="TOTWEI" Type="char" MaxLength="6" />
+    <Property Name="TOTPKG" Type="char" MaxLength="4" />
+    <Property Name="TOTSHP" Type="char" MaxLength="9" />
+    <Property Name="XWAREHOUSE" Type="varchar" MaxLength="50" />
+    <Property Name="CustomerPO" Type="char" MaxLength="35" />
+    <Property Name="SRVTYP" Type="varchar(max)" />
+    <Property Name="PKUDAT" Type="char" MaxLength="34" />
+    <Property Name="SHIDAT" Type="char" MaxLength="34" />
+    <Property Name="Weight" Type="char" MaxLength="5" />
+    <Property Name="XSPECHG_0" Type="char" MaxLength="11" />
+    <Property Name="VOIIND" Type="char" MaxLength="1" />
+    <Property Name="TrackingDate" Type="datetime" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+    <Property Name="ReadyToExport" Type="bit" />
+    <Property Name="Exported" Type="bit" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="RoleId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserFullName" Type="varchar(max)" />
+    <Property Name="UserName" Type="varchar(max)" />
+    <Property Name="UserAddress" Type="varchar(max)" />
+    <Property Name="UserJoiningDate" Type="datetime" />
+    <Property Name="UserPassword" Type="varchar(max)" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="UserStation">
+    <Key>
+      <PropertyRef Name="UserStationID" />
+    </Key>
+    <Property Name="UserStationID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="StationID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="UserID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="LoginDateTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedDateTime" Type="datetime" />
+    <Property Name="UpdatedDateTime" Type="datetime" />
+    <Property Name="CreatedBy" Type="uniqueidentifier" />
+    <Property Name="Updatedby" Type="uniqueidentifier" />
+  </EntityType>
+  <EntityType Name="VersionRelease_RGA">
+    <Key>
+      <PropertyRef Name="VesionID" />
+    </Key>
+    <Property Name="VesionID" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="VersionNumber" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DateReleased" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VersionReleased">
+    <Key>
+      <PropertyRef Name="VersionID" />
+    </Key>
+    <Property Name="VersionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="VersionNumber" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Release" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'Shipping Manager.dbo.Get_Shipping_Data' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Get_Shipping_Data">
+    <Key>
+      <PropertyRef Name="ShipmentID" />
+      <PropertyRef Name="ProductName" />
+      <PropertyRef Name="ItemWeight" />
+      <PropertyRef Name="UnitOfMeasure" />
+      <PropertyRef Name="CountryOfOrigin" />
+      <PropertyRef Name="TCLCOD_0" />
+      <PropertyRef Name="ValidationFLG" />
+      <PropertyRef Name="AllocationLocation" />
+      <PropertyRef Name="UPCCode" />
+    </Key>
+    <Property Name="Row_Number" Type="int" />
+    <Property Name="ShipmentID" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="SKU" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="ItemName" Type="nvarchar" MaxLength="20" />
+    <Property Name="ProductName" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="Quantity" Type="int" />
+    <Property Name="ItemWeight" Type="numeric" Nullable="false" Precision="13" Scale="4" />
+    <Property Name="UnitOfMeasure" Type="nvarchar" Nullable="false" MaxLength="3" />
+    <Property Name="LineType" Type="tinyint" />
+    <Property Name="UPCCode" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="CountryOfOrigin" Type="varchar" Nullable="false" MaxLength="2" />
+    <Property Name="MAP_Price" Type="numeric" Precision="19" Scale="5" />
+    <Property Name="TCLCOD_0" Type="nvarchar" Nullable="false" MaxLength="5" />
+    <Property Name="TarrifCode" Type="varchar" MaxLength="12" />
+    <Property Name="ValidationFLG" Type="tinyint" Nullable="false" />
+    <Property Name="AllocationLocation" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="ShippingLocation" Type="nvarchar" MaxLength="10" />
+    <Property Name="LocationCombined" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'Shipping Manager.dbo.getShippingDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="getShippingDetails">
+    <Key>
+      <PropertyRef Name="ShippingNum" />
+      <PropertyRef Name="DeliveryProvider" />
+      <PropertyRef Name="FromAddressLine1" />
+      <PropertyRef Name="FromAddressLine2" />
+      <PropertyRef Name="FromAddressLine3" />
+      <PropertyRef Name="FromAddressCity" />
+      <PropertyRef Name="FromAddressState" />
+      <PropertyRef Name="FromAddressCountry" />
+      <PropertyRef Name="FromAddressZipCode" />
+      <PropertyRef Name="ToAddressLine1" />
+      <PropertyRef Name="ToAddressLine2" />
+      <PropertyRef Name="ToAddressLine3" />
+      <PropertyRef Name="ToAddressCity" />
+      <PropertyRef Name="ToAddressState" />
+      <PropertyRef Name="ToAddressCountry" />
+      <PropertyRef Name="ToAddressZipCode" />
+      <PropertyRef Name="ShipmentStatus" />
+      <PropertyRef Name="OrderID" />
+      <PropertyRef Name="CustomerPO" />
+      <PropertyRef Name="ShipToAddress" />
+      <PropertyRef Name="OurSupplierNo" />
+      <PropertyRef Name="CustomerName1" />
+      <PropertyRef Name="CustomerName2" />
+      <PropertyRef Name="WebAddress" />
+      <PropertyRef Name="FreightTerms" />
+      <PropertyRef Name="Carrier" />
+      <PropertyRef Name="DeliveryContact" />
+      <PropertyRef Name="Indexcode" />
+      <PropertyRef Name="Contact" />
+      <PropertyRef Name="PaymentTerms" />
+      <PropertyRef Name="TotalPackages" />
+      <PropertyRef Name="Fax" />
+      <PropertyRef Name="VendorName" />
+      <PropertyRef Name="XB_RESFLG_0" />
+      <PropertyRef Name="CODCHG_0" />
+      <PropertyRef Name="INSVAL_0" />
+      <PropertyRef Name="ADDCODFRT_0" />
+      <PropertyRef Name="BILLOPT_0" />
+      <PropertyRef Name="HDLCHG_0" />
+      <PropertyRef Name="DOWNFLG_0" />
+      <PropertyRef Name="BACCT_0" />
+      <PropertyRef Name="TPBILL_0" />
+      <PropertyRef Name="CUSTBILL_0" />
+      <PropertyRef Name="CNTFULNAM_0" />
+    </Key>
+    <Property Name="ShippingNum" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="DeliveryProvider" Type="nvarchar" Nullable="false" MaxLength="15" />
+    <Property Name="DeliveryMode" Type="nvarchar" MaxLength="20" />
+    <Property Name="FromAddressLine1" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="FromAddressLine2" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="FromAddressLine3" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="FromAddressCity" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="FromAddressState" Type="nvarchar" Nullable="false" MaxLength="35" />
+    <Property Name="FromAddressCountry" Type="nvarchar" Nullable="false" MaxLength="3" />
+    <Property Name="FromAddressZipCode" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="ToAddressLine1" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="ToAddressLine2" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="ToAddressLine3" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="ToAddressCity" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="ToAddressState" Type="nvarchar" Nullable="false" MaxLength="35" />
+    <Property Name="ToAddressCountry" Type="nvarchar" Nullable="false" MaxLength="3" />
+    <Property Name="ToAddressZipCode" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="ShipmentStatus" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="OrderID" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="CustomerPO" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="ShipToAddress" Type="nvarchar" Nullable="false" MaxLength="5" />
+    <Property Name="OurSupplierNo" Type="nvarchar" Nullable="false" MaxLength="15" />
+    <Property Name="CustomerName1" Type="nvarchar" Nullable="false" MaxLength="35" />
+    <Property Name="CustomerName2" Type="nvarchar" Nullable="false" MaxLength="35" />
+    <Property Name="WebAddress" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="FreightTerms" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="Carrier" Type="nvarchar" Nullable="false" MaxLength="15" />
+    <Property Name="DeliveryContact" Type="nvarchar" Nullable="false" MaxLength="15" />
+    <Property Name="Indexcode" Type="smallint" Nullable="false" />
+    <Property Name="Contact" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="PaymentTerms" Type="nvarchar" Nullable="false" MaxLength="15" />
+    <Property Name="TotalPackages" Type="int" Nullable="false" />
+    <Property Name="Fax" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="VendorName" Type="nvarchar" Nullable="false" MaxLength="35" />
+    <Property Name="ShippingMode" Type="nvarchar" MaxLength="20" />
+    <Property Name="XB_RESFLG_0" Type="tinyint" Nullable="false" />
+    <Property Name="CODCHG_0" Type="nvarchar" Nullable="false" MaxLength="9" />
+    <Property Name="INSVAL_0" Type="numeric" Nullable="false" Precision="27" Scale="13" />
+    <Property Name="ADDCODFRT_0" Type="tinyint" Nullable="false" />
+    <Property Name="BILLOPT_0" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="HDLCHG_0" Type="nvarchar" Nullable="false" MaxLength="9" />
+    <Property Name="DOWNFLG_0" Type="tinyint" Nullable="false" />
+    <Property Name="BACCT_0" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="TPBILL_0" Type="tinyint" Nullable="false" />
+    <Property Name="CUSTBILL_0" Type="tinyint" Nullable="false" />
+    <Property Name="CNTFULNAM_0" Type="nvarchar" Nullable="false" MaxLength="35" />
+  </EntityType>
+  <Association Name="FK_BoxPackage_Package">
+    <End Role="Package" Type="Model.Store.Package" Multiplicity="1" />
+    <End Role="BoxPackage" Type="Model.Store.BoxPackage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Package">
+        <PropertyRef Name="PackingId" />
+      </Principal>
+      <Dependent Role="BoxPackage">
+        <PropertyRef Name="PackingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Package_Shipping">
+    <End Role="Shipping" Type="Model.Store.Shipping" Multiplicity="0..1" />
+    <End Role="Package" Type="Model.Store.Package" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shipping">
+        <PropertyRef Name="ShippingID" />
+      </Principal>
+      <Dependent Role="Package">
+        <PropertyRef Name="ShippingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Package_Station">
+    <End Role="Station" Type="Model.Store.Station" Multiplicity="0..1" />
+    <End Role="Package" Type="Model.Store.Package" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Station">
+        <PropertyRef Name="StationID" />
+      </Principal>
+      <Dependent Role="Package">
+        <PropertyRef Name="StationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Package_User">
+    <End Role="User" Type="Model.Store.User" Multiplicity="1" />
+    <End Role="Package" Type="Model.Store.Package" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Package">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PackageDetail_Package">
+    <End Role="Package" Type="Model.Store.Package" Multiplicity="1" />
+    <End Role="PackageDetail" Type="Model.Store.PackageDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Package">
+        <PropertyRef Name="PackingId" />
+      </Principal>
+      <Dependent Role="PackageDetail">
+        <PropertyRef Name="PackingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PalletDetail_PalletDetail">
+    <End Role="PalletInfo" Type="Model.Store.PalletInfo" Multiplicity="0..1" />
+    <End Role="PalletDetail" Type="Model.Store.PalletDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PalletInfo">
+        <PropertyRef Name="PalletID" />
+      </Principal>
+      <Dependent Role="PalletDetail">
+        <PropertyRef Name="PalletID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReturnedSKU_Reason_Points_Return">
+    <End Role="Return" Type="Model.Store.Return" Multiplicity="0..1" />
+    <End Role="ReturnedSKU_Reason_Points" Type="Model.Store.ReturnedSKU_Reason_Points" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Return">
+        <PropertyRef Name="ReturnID" />
+      </Principal>
+      <Dependent Role="ReturnedSKU_Reason_Points">
+        <PropertyRef Name="ReturnID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReturnedSKU_Reason_Points_ReturnDetail">
+    <End Role="ReturnDetail" Type="Model.Store.ReturnDetail" Multiplicity="0..1" />
+    <End Role="ReturnedSKU_Reason_Points" Type="Model.Store.ReturnedSKU_Reason_Points" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ReturnDetail">
+        <PropertyRef Name="ReturnDetailID" />
+      </Principal>
+      <Dependent Role="ReturnedSKU_Reason_Points">
+        <PropertyRef Name="ReturnDetailID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ReturnImages_ReturnDetail">
+    <End Role="ReturnDetail" Type="Model.Store.ReturnDetail" Multiplicity="1" />
+    <End Role="ReturnImages" Type="Model.Store.ReturnImages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ReturnDetail">
+        <PropertyRef Name="ReturnDetailID" />
+      </Principal>
+      <Dependent Role="ReturnImages">
+        <PropertyRef Name="ReturnDetailID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RMAComments_Return">
+    <End Role="Return" Type="Model.Store.Return" Multiplicity="0..1" />
+    <End Role="RMAComments" Type="Model.Store.RMAComments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Return">
+        <PropertyRef Name="ReturnID" />
+      </Principal>
+      <Dependent Role="RMAComments">
+        <PropertyRef Name="ReturnID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RMAComments_User">
+    <End Role="User" Type="Model.Store.User" Multiplicity="0..1" />
+    <End Role="RMAComments" Type="Model.Store.RMAComments" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="RMAComments">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Station_User">
+    <End Role="User" Type="Model.Store.User" Multiplicity="1" />
+    <End Role="Station" Type="Model.Store.Station" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Station">
+        <PropertyRef Name="RequestedUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblUserStation_tblStationMaster">
+    <End Role="Station" Type="Model.Store.Station" Multiplicity="1" />
+    <End Role="UserStation" Type="Model.Store.UserStation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Station">
+        <PropertyRef Name="StationID" />
+      </Principal>
+      <Dependent Role="UserStation">
+        <PropertyRef Name="StationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tracking_BoxPackage">
+    <End Role="BoxPackage" Type="Model.Store.BoxPackage" Multiplicity="0..1" />
+    <End Role="Tracking" Type="Model.Store.Tracking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BoxPackage">
+        <PropertyRef Name="BoxID" />
+      </Principal>
+      <Dependent Role="Tracking">
+        <PropertyRef Name="BoxID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tracking_Package">
+    <End Role="Package" Type="Model.Store.Package" Multiplicity="0..1" />
+    <End Role="Tracking" Type="Model.Store.Tracking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Package">
+        <PropertyRef Name="PackingId" />
+      </Principal>
+      <Dependent Role="Tracking">
+        <PropertyRef Name="PackingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tracking_Shipping">
+    <End Role="Shipping" Type="Model.Store.Shipping" Multiplicity="0..1" />
+    <End Role="Tracking" Type="Model.Store.Tracking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Shipping">
+        <PropertyRef Name="ShippingID" />
+      </Principal>
+      <Dependent Role="Tracking">
+        <PropertyRef Name="ShippingID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaction_Reasons">
+    <End Role="Reasons" Type="Model.Store.Reasons" Multiplicity="0..1" />
+    <End Role="SKUReasons" Type="Model.Store.SKUReasons" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reasons">
+        <PropertyRef Name="ReasonID" />
+      </Principal>
+      <Dependent Role="SKUReasons">
+        <PropertyRef Name="ReasonID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Transaction_ReturnDetail">
+    <End Role="ReturnDetail" Type="Model.Store.ReturnDetail" Multiplicity="0..1" />
+    <End Role="SKUReasons" Type="Model.Store.SKUReasons" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ReturnDetail">
+        <PropertyRef Name="ReturnDetailID" />
+      </Principal>
+      <Dependent Role="SKUReasons">
+        <PropertyRef Name="ReturnDetailID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Roles">
+    <End Role="Roles" Type="Model.Store.Roles" Multiplicity="1" />
+    <End Role="User" Type="Model.Store.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="RoleId" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserLogs_User">
+    <End Role="User" Type="Model.Store.User" Multiplicity="1" />
+    <End Role="Audit" Type="Model.Store.Audit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="Audit">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserStation_User">
+    <End Role="User" Type="Model.Store.User" Multiplicity="1" />
+    <End Role="UserStation" Type="Model.Store.UserStation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserID" />
+      </Principal>
+      <Dependent Role="UserStation">
+        <PropertyRef Name="UserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" ReturnType="int" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="Get_Shipping_Data_Procedure" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Ship_ID" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="Update_Exported_Rows" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="TRKNUM" Type="char" Mode="In" />
+  </Function>
+</Schema>

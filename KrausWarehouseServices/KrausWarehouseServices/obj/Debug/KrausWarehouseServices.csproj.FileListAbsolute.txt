@@ -1,0 +1,397 @@
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+C:\Users\Shiva3\Documents\GitHub\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+E:\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\deepak\New RGA18-03-2015\New RGA\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\Shriram\Upcoming Live Services\18march-3 Test\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\Shriram\Upcoming Live Services\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\deepak\New Final Services\19thMarch-1\19thMarch-1\Upcoming Live Services\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\Shriram\Upcoming Live Services\31March2015-1\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+E:\services 3-04-2015 combox Issue\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\Final Build of RGA\KWHS\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\Final Build of RGA\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll.config
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.Web.Extensions.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\EntityFramework.xml
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Hosting.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\de\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\es\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\fr\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\it\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ja\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ko\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\ru\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Server.resources.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.dll
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.pdb
+D:\Final Build of RGA\BackUp\KWHS14-04-2015\KrausWarehouseServices\KrausWarehouseServices\obj\Debug\KrausWarehouseServices.csprojResolveAssemblyReference.cache
